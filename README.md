@@ -1,4 +1,4 @@
 # sysfoo
-Sample java webapp with maven which prints system info
+Sample java webapp using maven.
 
 This repo is cloned as part of Jenkins CI/CD training.
